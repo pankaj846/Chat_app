@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ChatServerApplication<chat-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pankaj.chatserver.ChatServerApplication",
+            "projectName": "chat-server",
+            "args": ""
+        }
+    ]
+}
